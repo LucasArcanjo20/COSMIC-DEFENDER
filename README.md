@@ -82,15 +82,6 @@ Este projeto foi desenvolvido como prática de:
 - 🖼 Manipulação gráfica usando Canvas  
 - 🧠 Aplicação de padrões de programação usados em games  
 
----
-
-# 👨‍💻 Autor
-
-**Lucas Rafael Arcanjo**
-
-Desenvolvedor Web focado em:
-
-- React
 - Node.js
 - JavaScript
 - Desenvolvimento de aplicações web modernas
